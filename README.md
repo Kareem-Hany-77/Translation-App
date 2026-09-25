@@ -1,17 +1,46 @@
-# translation_app
+# Spanish Vocabulary App
 
-A new Flutter project.
+A simple and interactive Spanish vocabulary learning app built with Flutter.
+
+## About
+
+This app helps users learn common Spanish words through categorized vocabulary cards.
+
+Each word is displayed in a simple card with its Spanish translation, and users can tap the sound button to hear the pronunciation.
+
+## Categories
+
+- Family
+- Numbers
+- Colors
+- Animals
+- And more
+
+## Features
+
+- Categorized Spanish vocabulary
+- Spanish words with translations
+- Clean and simple card-based UI
+- Pronunciation audio for each word
+- Easy navigation between categories
+- Beginner-friendly learning experience
+
+## Technologies
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/translation_app.git
